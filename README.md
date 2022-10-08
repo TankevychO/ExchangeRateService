@@ -23,4 +23,4 @@ __________________________________________
 _________________________________________________________________________________________
 #### Run Docker
 1) *docker build -t testtaskoveronix-0.0.1-snapshot.jar .* </br>
-2) *docker run -d -p 8085:8085 testtaskoveronix-0.0.1-snapshot.jar*  </br># 
+2) *docker run -d -p 8085:8085 testtaskoveronix-0.0.1-snapshot.jar*  </br>
