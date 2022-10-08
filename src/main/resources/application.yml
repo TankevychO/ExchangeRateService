@@ -1,0 +1,16 @@
+spring:
+  h2.console.enabled: true
+  datasource:
+    username: user
+    password: password
+    url: jdbc:h2:mem:CurrencyExchange
+
+  jpa:
+    hibernate.ddl-auto: create
+
+server:
+  port: 8085
+
+apikey.currencyapi: yw8qF8C4jHTaOFaAYAhreGugjZ0yczO0XgJtRLWl
+apikey.exchangeratesapi: qHzjZLiiMFdI13KYDr3rJer6nnGm33cT
+apikey.exchangerate-api: cb564916e53aeb7d15455d9b

@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "apikey.currencyapi",
+      "type": "java.lang.String",
+      "description": "Description for apikey.currencyapi."
+    }
+  ]
+}
