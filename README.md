@@ -1,6 +1,6 @@
 # Exchange Rate Service 💹
 
-Implement an application for providing up-to-date currency exchange rates for input currencies (for example USD/EUR). The application should consume exchange rates data  from the 3d party systems via http calls. The application should consume data from the 3d party system, store request and response from this system in DB, and return currency exchange rates.
+An application is implemented for providing up-to-date currency exchange rates for input currencies. The application consumes exchange rates data from the different 3d party systems via http calls. The application consumes data from the 3d party system, and returns currency exchange rates.
 _________________________________________________________________________________________
 ##### Were used the following sourced:
 * [https://freecurrencyapi.net](https://freecurrencyapi.net/)
